@@ -1,2 +1,2 @@
 ## GIT-Practice
-Hi, This is from member
+Hi, This is from member commited
